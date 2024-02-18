@@ -5,5 +5,7 @@
 1. pythonインタープリタがPoetryになっていることを確認
 1. scripts/test.pyを実行
 
+ディレクトリはpoetry newで作成
+
 > 参考
 > https://qiita.com/haraken_qiita/items/6983d0ca8c0f76bd021a

@@ -1,5 +1,4 @@
 ### 使い方
-2
 ＜環境＞　Poetry (version 1.7.1), WSL2 Ubuntu
 
 1. WSL上にclone

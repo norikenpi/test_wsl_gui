@@ -1,3 +1,4 @@
 {
-    "python.defaultInterpreterPath": "test-wsl-gui-HFPGuCCz-py3.10"
+    "python.defaultInterpreterPath": "test-wsl-gui-HFPGuCCz-py3.10",
+    "remote.autoForwardPortsFallback": 0
 }
